@@ -5,8 +5,8 @@ audio_player: true
 ---
 >I CAN DO AUDIO!
 {: .prompt-tip }
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
 <audio controls title="My First Audio">
   <source src="\assets\test.mp3" type="audio/mp3">
 </audio>
-</div>
+</div> -->
