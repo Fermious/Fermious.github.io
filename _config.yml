@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://fermious.github.io/"
 
 github:
-  username: Fermious # change to your github username
+  username: fermious # change to your github username
 
 # twitter:
 #   username: PiPsiPhi # change to your twitter username
