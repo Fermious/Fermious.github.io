@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-# I am Fermious, a physicist.
-> Fermious is mine own singular version of fermion.
+# 𝙸 𝚊𝚖 𝙵𝚎𝚛𝚖𝚒𝚘𝚞𝚜, 𝚊 𝚙𝚑𝚢𝚜𝚒𝚌𝚒𝚜𝚝.
+> "𝙵𝚎𝚛𝚖𝚒𝚘𝚞𝚜" 𝚒𝚜 𝚖𝚒𝚗𝚎 𝚘𝚠𝚗 𝚜𝚒𝚗𝚐𝚞𝚕𝚊𝚛 𝚘𝚏 "𝙵𝚎𝚛𝚖𝚒𝚘𝚗𝚜," 𝚝𝚑𝚘𝚜𝚎 𝚚𝚞𝚊𝚗𝚝𝚞𝚖 𝚙𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚝𝚑𝚊𝚝 𝚗𝚎'𝚎𝚛 𝚌𝚊𝚗 𝚜𝚑𝚊𝚛𝚎 𝚝𝚑𝚎 𝚜𝚊𝚖𝚎 𝚜𝚝𝚊𝚝𝚎.
+> 
+> 𝙸, 𝚒𝚗𝚍𝚎𝚎𝚍, 𝚊𝚖 𝙵𝚎𝚛𝚖𝚒𝚘𝚞𝚜.
 {: .prompt-tip }
