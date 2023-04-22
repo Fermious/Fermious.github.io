@@ -1,7 +1,7 @@
 ---
 title: My First Post
 date: 2023-04-20 3:00:00 +0300
-image: assets\tst.png
+image: \assets\tst.png
 # pin: true
 ---
 
