@@ -7,6 +7,6 @@ audio_player: true
 {: .prompt-tip }
 <div style="text-align: center;">
 <audio controls title="My First Audio">
-  <source src="\assets\test.m4a" type="audio/mp3">
+  <source src="\assets\aud\ICanDoAudio.mp3" type="audio/mp3">
 </audio>
 </div>
