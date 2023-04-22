@@ -7,5 +7,5 @@ audio_player: true
 {: .prompt-tip }
 
 <div style="text-align: center;">
-<audio src="\assets\aud\ICanDoAudio.mp3" controls preload></audio>
+<audio src="\assets\aud\ICanDoAudio.mp3" controls preload title="I said write like a true SCOTTISH lol"></audio>
 </div>
