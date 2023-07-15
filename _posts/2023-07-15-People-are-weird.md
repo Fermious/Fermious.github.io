@@ -1,6 +1,6 @@
 ---
 title: People are weird..
-date: 2023-07-15 20:20 +0300
+date: 2023-07-15 19:20 +0300
 ---
 I do not understand people, they do not make so much sense to me. I always get baffled when dealing with humans, like why do you think and act like this? Almost all of them are stupid beyond repair. The general population seem to have chimp-like brain. I truly wonder if people are this bad or this is just the one of the effects of social media? To me, I am bounded by common sense, which I hate that it is called common because common is definitely not one of its attributes. Back to me, I almost worship logic, and this sometimes puts me in a variety of bad situations. Give, that humans, are barely logical. The emotional component of humans is something I do not like for how illogical it seems. I should not feel bad because of emotional effects that hold zero logical significance.
 
